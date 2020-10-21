@@ -1,0 +1,10 @@
+.testimonial{
+    text-align: center;
+    background: #0d3738;
+    padding: 23px; 
+}
+.carousel{
+    height: 510px;
+    width: 510px;
+    display: inline-block;
+}

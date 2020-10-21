@@ -1,0 +1,7 @@
+.header-section{
+    background-image: linear-gradient( 230deg, transparent 50%,#f7c954 45%);
+    width: 100%;
+    height: 710px;
+    background-size: cover;
+    background-position: center;
+}

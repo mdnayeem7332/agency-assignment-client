@@ -1,0 +1,11 @@
+.sidebar li{
+    margin-bottom: 1em;
+    padding-left: 42px; 
+}
+.sideBarlink{
+    color: black;
+}
+.sideBarlink:hover{
+    color: #009444;
+    text-decoration: none;
+}
